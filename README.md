@@ -2,9 +2,7 @@
 
 
 ### lien utile
-https://cds.climate.copernicus.eu/datasets/sis-energy-derived-projections?tab=overview
-https://cds.climate.copernicus.eu/datasets/derived-era5-land-daily-statistics?tab=overview
-https://cds.climate.copernicus.eu/datasets/sis-biodiversity-era5-regional?tab=overview
-https://www.eea.europa.eu/en/analysis/maps-and-charts/observed-trends-in-total-global-2
-https://odre.opendatasoft.com/explore/dataset/emissions-ges-operateurs/information/
-https://meteo.data.gouv.fr/datasets
+https://www.kaggle.com/datasets/prasad22/global-economy-indicators
+https://www.kaggle.com/datasets/saloni1712/co2-emissions
+
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download
